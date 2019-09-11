@@ -1,6 +1,6 @@
 # Ionic Fruit App
 <a target="_blank" rel="noopener noreferrer" href="https://codecanyon.net/item/ionic5-fruit-app-with-firebase/24448819/">
- Ionic5 Fruit App</a>
+ Ionic5 Fruit App(codecanyon)</a>
  
 # Ionic fruit App Introduction Video
 
