@@ -1,9 +1,11 @@
 # Ionic Fruit App
 <a target="_blank" rel="noopener noreferrer" href="https://codecanyon.net/item/ionic5-fruit-app-with-firebase/24448819/">
  Ionic5 Fruit App</a>
+ 
 # Ionic fruit App Introduction Video
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/dwYycFHXE4s" frameborder="0"
-            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<a target="_blank" rel="noopener noreferrer" href="https://youtu.be/dwYycFHXE4s">
+ Ionic5 Fruit App Video</a>
             
             
 <h2><strong>Ionic5 Fruit App with Firebase</strong></h2>
