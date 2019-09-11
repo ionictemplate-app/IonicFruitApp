@@ -1,6 +1,6 @@
 # IonicFruitApp
 <a target="_blank" rel="noopener noreferrer" href="https://codecanyon.net/item/ionic5-fruit-app-with-firebase/24448819/">
- Edit Ionic5 Fruit App</a>
+ Ionic5 Fruit App</a>
 <h2><strong>Ionic5 Fruit App with Firebase</strong></h2>
 <p>You can easily, quickly build an Android/ios App, through this template, Ionic 5 Fruit App existing features save you
     time and enable rapid development, it contains many useful screen and components. It Builds with Angular 8, Ionic
